@@ -1,0 +1,2 @@
+groceries = {fruits: "Vegetable"
+             }
