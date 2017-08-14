@@ -1,0 +1,1 @@
+# The major diffence between a Hash and an Array is that Hashes store Key Value pairs
